@@ -41,30 +41,21 @@ Because the game is educational, the player learns how to do things during the e
 
 ### 4. Rules
 
-* The player can move any moveable object, even if it seems it will not help them solve the puzzle.
+* The player needs to write the correct code to solve the current puzzle.
 
-* In single player mode, the player cannot leave the room. In two player mode, the player cannot leave the area in which the two rooms are present.
+* The result of each puzzle will be measured by comparing the code the player wrote to the correct one.
 
-* The player scores points at the end of the level, based on the amount of damage caused to the room. The less, the better. A 0-3 star system would be put in place.
-
-* Rules of the game would be made clear in the tutorial level. 
+* The player will learn the game's rule in the first level.
 
 
 ### 5. Resources
 
-* The player could make use of every object in the room. Everything, apart from the walls, can be moved and used.
-
-* The player can climb stools to reach a higher shelves, flip switches to power off an appliance, move objects from hazardous positions etc.
-
 * The player can use hint points to get hints that would aid him in solving the current puzzle.
-
-* For every level completed with 3 stars, the player will get coins that can be later used to buy hint points. Hint points will be hard to achieve because the player has to solve the puzzle with 3 stars. 
-
-* The amount of coins and hint points can be displayed in the corner of the screen.
 
 ### 6. Conflict
 
-* Time is your main adversary in the game. Players should be quick on their feet and creative. 
+* The player wants to stay inside the magical world and is chased by guards.
+
 * In two player mode, every player has to out-score the other player. 
 
 
