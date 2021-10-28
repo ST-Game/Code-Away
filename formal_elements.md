@@ -3,11 +3,11 @@
 **Code your way through this magical world!**
 ## Concept
 
-Code Away is a puzzle game that meant to teach children how to handle hazardous objects without causing a fire, all while solving puzzles and keeping things playful and funny.
+Code Away is an educational, adventure game that takes place in a magical world.  
+To make progress in the game, players have to submit pieces of code and understand basic concepts in computer science.
 
-A child steps into a room and has to find all objects that might cause a fire. As the child progresses through the game, the objects become less and less immediate and the child has to search for clues that would help him find the objects (similar to escape room games).
 
-![child opening lock](./play.png)
+![child opening lock](./woods.png)
 ---
 
 
@@ -15,23 +15,23 @@ A child steps into a room and has to find all objects that might cause a fire. A
 
 ### 1. Players
 
-* The game's main audience are children, 6-15 years, old that can use a computer. The level of talent or experience necessary to play the game is minimal, which makes onboarding relatively easy.
+* The game's main audience are people wanting to take their first steps in the world of programming and computer science. The game will be suited for ages 12-99. The game requires no previous knowledge in programming and the success in the game is dependent solely on whether the player is willing to learn.
 
-* The game could be played in both single player mode, and two player mode. 
 
-* The single player mode would be played against the clock while the two player mode could be played as a collaboration against the clock, or as a competition.
+* The game is played in single player mode.
+
 
 ### 2. Goals
 
-* When the time is up for each level, electrical power will go through the room's outlets and the fire stove, oven, or any other appliance would turn on. The players need to reach the end of the level with minimum objects left as hazardous in their room.
+* Making progress in the game is done by solving computer science related questions, using C++ Code.
+The main goal is to learn how to code and think like a programer.
 
-* The first levels of the game would serve as a tutorial where the player would be asked to fail and see the results of leaving the room uncleared. After seeing the damages, the player would be asked to fix the situation that caused the fire. 
-
-* In two player mode, the players could choose to sabotage the room of the other player, though it is not taught in the tutorials and the players are left to find that out on their own.
+* The first levels of the game would serve as a tutorial where the player would be asked to code, according to the tradition, a "Hello world!" program and see what happens on the screen.
+Because the game is educational, the player learns how to do things during the entire game. So, one can say the entire game is a tutorial!
 
 ### 3. Processes
 
-* The first level should be extremely concise. It should take no more than 15 seconds to complete and figure the game out. A hazardous object in the room would be pointed at by an arrow and the player would have to fix the situation. In the same room, there would be another hazardous object and the player will not be instructed to move it. When the time is up for that level, the hidden object would catch fire and at that point, the player would understand the meaning of losing the game.
+* The player wakes up in a forest and encounters a small ghost. The ghost will aid him in 
 
 * Players would have to solve the puzzle of each level and move the correct objects in order to proceed to the next level. Solving puzzles will be constructed of finding keys, moving hidden objects and flipping switches. Players will use their keyboard to control the character on the screen.
 
