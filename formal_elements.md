@@ -58,14 +58,13 @@ Because the game is educational, the player learns how to do things during the e
 
 ### 7. Boundaries
 
-The 
+The game would be semi-open world and the player would need to navigate through it and get quests and side-quests.
 
 ### 8. Results
 
-* Every level would have 4 available outcomes, represented by the 0-3 stars a player can achieve. 
+* Every level will display its result according to the code the player wrote. 
 
-* The outcome is solely dependent on skills. 
-* In both single and two player mode, the game would have complex result. The player will be ranked 0-3 stars according to their performance.
+* The game has one outcome when the player solves all the puzzles the game has to offer. This outcome is unavoidable because the nature of the game.
 
 ---
 
