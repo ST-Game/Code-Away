@@ -54,17 +54,11 @@ Because the game is educational, the player learns how to do things during the e
 
 ### 6. Conflict
 
-* The player wants to stay inside the magical world and is chased by guards.
-
-* In two player mode, every player has to out-score the other player. 
-
+* The player wants to stay inside the magical world but is chased by guards.
 
 ### 7. Boundaries
 
-
-The room's walls would serve as the main boundaries of the game. 
-A wall is a clear and well known boundary and every child will be able to figure it out.
-
+The 
 
 ### 8. Results
 
